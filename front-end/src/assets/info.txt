@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: built_titling_bd
+font link: https://www.fontspring.com/fonts/typodermic/built-titling
+font author: Typodermic
+font author site: http://typodermicfonts.com/
+
+
+{"bg":"#FDF4F1","icon-gradient-0":"#EB6E00","icon-gradient-1":"#F3BCE6","font":"#36231D","slogan":"#4a3731"}
+      
